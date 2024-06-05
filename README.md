@@ -11,6 +11,9 @@ I'm a front-end developer currently focused on expanding my skill set to become 
   - Sass
   - JavaScript
   - Shadcn Ui
+  - mongodb
+  - Prisma (ORM)
+  - typescript
 - 🌱 I'm always eager to learn new technologies and improve my coding abilities.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinskay&show_icons=true&theme=tokyonight)
